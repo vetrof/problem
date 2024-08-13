@@ -1,6 +1,6 @@
 TODO
 
-переменные окружения:
+переменные окружения:  
 DEBUG=true  
 SECRET_KEY=django-insecure-*h1x@arrn+6koqgdim2s=c85(#a(35ep^nh+gq+!h(8!mp9+2v
 
